@@ -1,4 +1,4 @@
-#!/bin/bash
+Ň#!/bin/bash
 #Code:YamanEfkar
 #İnstagram: @yamanefkarr
 #Youtube : Yamanefkar
